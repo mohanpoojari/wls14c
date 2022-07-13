@@ -2,6 +2,8 @@
 
 This will create a docker image containing an Oracle WLS 14c without a domain
 
+Build the centos7 image first using the centos7 docker file
+
 ## Building
 
 
