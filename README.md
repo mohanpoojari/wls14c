@@ -4,14 +4,12 @@ This will create a docker image containing an Oracle WLS 14c without a domain
 
 ## Building
 
-Placeholder.  Include docker build process. **REPLACE CHANGEME with your project name**
-    
+
     cd /path/to/dockerfile/location
     docker build --rm=true  --tag=some/tag/wls14c -f wls14c.dockerfile .
 
 ## Running
 
-Placeholder.  Include simple and typical docker run processes.
 
     docker run -d --init --restart unless-stopped --name WLS14c some/tag/wls14c
 
