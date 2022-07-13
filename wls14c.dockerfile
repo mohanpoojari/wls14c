@@ -1,7 +1,7 @@
 #Author: Mohan Poojari
 
 ARG REPO
-FROM ${REPO}mw/base/centos7
+FROM ${REPO}some/tag/centos7
 
 # Build Arguments
 # (Put build arguments first and set defaults)
